@@ -1,3 +1,4 @@
+//This class allows for handling of Gaussian integers
 
 public class Gauss
 {
