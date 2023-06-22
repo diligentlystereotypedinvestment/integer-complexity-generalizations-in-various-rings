@@ -1,3 +1,5 @@
+//This class handles the creation of and working with representations of Gaussian integers
+
 import java.util.ArrayList; // import the ArrayList class
 
 public class GaussExpression{

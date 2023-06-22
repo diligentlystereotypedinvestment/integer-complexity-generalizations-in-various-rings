@@ -1,3 +1,5 @@
+//This class does the operations of "building up" each set of Gaussian integers with a certain complexity
+
 import java.util.ArrayList; // import the ArrayList class
 import java.util.Arrays;
 import java.util.Collections;
