@@ -1,3 +1,4 @@
+#n minimum inefficiency of n
 3 3
 4 3
 5 3

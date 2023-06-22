@@ -1,6 +1,9 @@
 #!/usr/bin/env wolframscript
 (* ::Package:: *)
 
+(*
+This program does the operations of "building up" each set of cyclotomic integers with a certain complexity, where the cyclotomic integers are in Q[zeta_k]
+*)
 k = 3;
 
 \[Zeta] = E ^ (2 \[Pi] I / k);

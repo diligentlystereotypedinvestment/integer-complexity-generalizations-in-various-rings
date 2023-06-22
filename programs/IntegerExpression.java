@@ -1,3 +1,5 @@
+//This class handles the creation of and working with representations of integers
+
 import java.util.ArrayList; // import the ArrayList class
 
 public class IntegerExpression{

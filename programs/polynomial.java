@@ -1,3 +1,5 @@
+//this class allows for handling of polynomials
+
 import java.util.ArrayList; // import the ArrayList class
 import java.util.Arrays;
 import java.util.Collections;
@@ -63,6 +65,7 @@ public class polynomial // gives us complexity expressions
         return new polynomial(sum).scrapZeros();
     }
 
+    //removes leading coefficients if they are 0
     public polynomial scrapZeros()
     {
         ArrayList<Integer> c = this.getCoefficients();
